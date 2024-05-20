@@ -69,7 +69,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Chaithanya Krishna - [your-email@example.com](mailto:chaithanyakrishna4112@gmail.com)
+Chaithanya Krishna - [chaithanyakrishna4112@gmail.com](mailto:chaithanyakrishna4112@gmail.com)
 
 Project Link: [https://github.com/ChaithanyaKrishna28/Chaithanyakrishna-React-Projects/tree/main/BgChange](https://github.com/ChaithanyaKrishna28/Chaithanyakrishna-React-Projects/tree/main/BgChange)
 
